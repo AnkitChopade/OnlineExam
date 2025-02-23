@@ -1,0 +1,72 @@
+form {
+	border: 2px solid black;
+	width: 60%;
+	margin: auto;
+	padding-top: 20px;
+}
+
+input[type=text], input[type=password] {
+	width: 100%;
+	padding: 10px 20px;
+	margin: 8px 0;
+	border: 1px solid black;
+}
+
+p{
+	font-size: 25px;
+}
+
+button {
+	background-color: #04AA6d;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	width: 100%;
+	border: none;
+}
+
+#success {
+	color: red;
+}
+
+.cancelbtn {
+	background-color: #f44336;
+	padding: 10px 20px;
+	width: auto;
+}
+
+.container {
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+.rescontainer{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.regcontainer{
+	padding-left: 150px;
+	padding-right: 150px;
+	margin: 20px 20px;
+}
+
+.quecontainer{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.imgcontainer {
+	text-align: center;
+	margin: 20px 10px;
+}
+
+.avatar {
+	width: 20%;
+	border-radius: 50%;
+}
+
+.forgotpwd {
+	padding-top: 15px;
+	float: right
+}
